@@ -1,0 +1,72 @@
+[
+    {
+        "taikhoan": "admin",
+        "matkhau": "123456",
+        "phanquyen": "admin"
+    },
+    {
+        "taikhoan": "binh",
+        "matkhau": "binh",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "tuongvi",
+        "matkhau": "12345",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "binhlinh",
+        "matkhau": "binh",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "ly",
+        "matkhau": "1234",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "thuylinhvu",
+        "matkhau": "13121312",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "dodangghet",
+        "matkhau": "dodangyeu",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "sanse",
+        "matkhau": "iuthun",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "conan2k7",
+        "matkhau": "1900",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "buonngu24h",
+        "matkhau": "chukhibuon",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "jimmypham",
+        "matkhau": "nguoikhonglo",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "jimmypham",
+        "matkhau": "nguoikhonglo",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "thanhniennghiemtuc",
+        "matkhau": "depzai",
+        "phanquyen": "user"
+    },
+    {
+        "taikhoan": "cudem",
+        "matkhau": "thukhoa2025",
+        "phanquyen": "user"
+    }
+]
